@@ -5,4 +5,4 @@ let obj = {
     age:23
 }
 
-let age = 22
+let age = 25
